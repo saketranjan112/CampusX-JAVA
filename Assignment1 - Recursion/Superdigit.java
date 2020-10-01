@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Main {
+public class Superdigit{
 
     public static void main(String[] args) {
-	// write your code here
+	
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
         String n = input.split(" ")[0];
